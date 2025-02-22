@@ -1,2 +1,3 @@
 # DSA-Assignments
-JGEC '27 Batch DSA Assignments List
+JGEC '27 Batch DSA Lab Assignments List
+Subject Code: PCC-CS392
